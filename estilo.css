@@ -1,0 +1,8 @@
+.container{ display: flex; }
+
+.cor1 { background-color: greenyellow; }
+
+.altura20 { height: 20% }
+.largura {width: 100%}
+
+.font { font-family: 'Indie Flower', cursive; }

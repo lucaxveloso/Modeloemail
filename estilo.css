@@ -1,8 +1,13 @@
 .container{ display: flex; }
 
 .cor1 { background-color: greenyellow; }
+.cor2 {background-color: gainsboro;}
 
-.altura20 { height: 20% }
-.largura {width: 100%}
+.tamanho_titulo {font-size: 50px;}
+
+.altura20 { height: 20%;}
+.altura80 {height: 80%;}
+.largura {width: 100%;}
+.largura50 {width: 50%;}
 
 .font { font-family: 'Indie Flower', cursive; }
